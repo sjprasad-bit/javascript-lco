@@ -1,2 +1,2 @@
 # javascript-lco
-JavaScript learncodeonline tutorial
+JavaScript tutorial Prasad
